@@ -10,6 +10,6 @@ import { Car } from './car';
 
 export class AppComponent  {
 
-  // this is where we will rebuild our array of Car types ... coming soon !
+  
 
 }
